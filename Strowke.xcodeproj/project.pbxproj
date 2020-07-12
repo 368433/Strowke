@@ -21,6 +21,8 @@
 		6AC0137524BB410000447E36 /* CountDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC0137324BB410000447E36 /* CountDownView.swift */; };
 		6AC0137724BB4B3000447E36 /* CDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC0137624BB4B3000447E36 /* CDView.swift */; };
 		6AC0137824BB4B3000447E36 /* CDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC0137624BB4B3000447E36 /* CDView.swift */; };
+		6AD98F8D24BB6A5400C6C70D /* CircularText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD98F8C24BB6A5400C6C70D /* CircularText.swift */; };
+		6AD98F8E24BB6A5400C6C70D /* CircularText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD98F8C24BB6A5400C6C70D /* CircularText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,7 @@
 		6AC0137024BB3E3700447E36 /* MainTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTimerView.swift; sourceTree = "<group>"; };
 		6AC0137324BB410000447E36 /* CountDownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDownView.swift; sourceTree = "<group>"; };
 		6AC0137624BB4B3000447E36 /* CDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDView.swift; sourceTree = "<group>"; };
+		6AD98F8C24BB6A5400C6C70D /* CircularText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,7 @@
 			children = (
 				6AC0133324BB3E1C00447E36 /* StrowkeApp.swift */,
 				6AC0137024BB3E3700447E36 /* MainTimerView.swift */,
+				6AD98F8C24BB6A5400C6C70D /* CircularText.swift */,
 				6AC0137324BB410000447E36 /* CountDownView.swift */,
 				6AC0137624BB4B3000447E36 /* CDView.swift */,
 				6AC0133424BB3E1C00447E36 /* ContentView.swift */,
@@ -323,6 +327,7 @@
 				6AC0135E24BB3E1E00447E36 /* ContentView.swift in Sources */,
 				6AC0135C24BB3E1D00447E36 /* StrowkeApp.swift in Sources */,
 				6AC0137424BB410000447E36 /* CountDownView.swift in Sources */,
+				6AD98F8D24BB6A5400C6C70D /* CircularText.swift in Sources */,
 				6AC0137724BB4B3000447E36 /* CDView.swift in Sources */,
 				6AC0137124BB3E3700447E36 /* MainTimerView.swift in Sources */,
 			);
@@ -335,6 +340,7 @@
 				6AC0135F24BB3E1E00447E36 /* ContentView.swift in Sources */,
 				6AC0135D24BB3E1E00447E36 /* StrowkeApp.swift in Sources */,
 				6AC0137524BB410000447E36 /* CountDownView.swift in Sources */,
+				6AD98F8E24BB6A5400C6C70D /* CircularText.swift in Sources */,
 				6AC0137824BB4B3000447E36 /* CDView.swift in Sources */,
 				6AC0137224BB3E3700447E36 /* MainTimerView.swift in Sources */,
 			);
